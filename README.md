@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarthakDandgawhal
-- 👀 I’m interested in Python, Java, C++, CTF, Tryhackme, HackTheBox
+- 👀 I’m interested in Python, Java, C++, CTF's, Tryhackme, HackTheBox
 - 🌱 I’m currently learning Java, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dandgawhalsarthak@gmail.com
